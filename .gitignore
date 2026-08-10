@@ -1,0 +1,4 @@
+B2W-Reviews01.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
