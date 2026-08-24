@@ -25,6 +25,12 @@ Os dados originais vieram em um único arquivo bruto. Foram normalizados em trê
 - **products** — dados do produto avaliado (id, nome, marca, categoria)
 - **reviews** — a avaliação em si (nota, recomendação, texto, sentimento)
 
+## Dashboard
+
+![Dashboard - Visão Geral](dashboard.png)
+
+O dashboard interativo (arquivo `.pbix`) está disponível neste repositório para download e exploração completa.
+
 ## Ferramentas utilizadas
 
 Python (Pandas), SQL (PostgreSQL), Power BI (DAX), Git/GitHub.
